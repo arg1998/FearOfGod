@@ -1,0 +1,58 @@
+{
+  "name": "FogIcons",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "d531ea7e8c094b73df941ed0bac921f3",
+      "css": "bag",
+      "code": 62096,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d7df8d878570b378b7d928049f29cb50",
+      "css": "lock",
+      "code": 59407,
+      "src": "linearicons"
+    },
+    {
+      "uid": "b75af8c5ac556bc6953f343d3ff5986b",
+      "css": "user",
+      "code": 59434,
+      "src": "linearicons"
+    },
+    {
+      "uid": "8b80d36d4ef43889db10bc1f0dc9a862",
+      "css": "user_fill",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "1bcc6c6369c3d475fa27115f806ff2ad",
+      "css": "heart",
+      "code": 59393,
+      "src": "websymbols"
+    },
+    {
+      "uid": "2a3cd95de2621bd87479396f236fd2a4",
+      "css": "heart_fill",
+      "code": 59394,
+      "src": "websymbols"
+    },
+    {
+      "uid": "20caa277463fe64e9da210d0dc31b4c8",
+      "css": "upload",
+      "code": 59494,
+      "src": "linearicons"
+    },
+    {
+      "uid": "9dd9e835aebe1060ba7190ad2b2ed951",
+      "css": "search",
+      "code": 59395,
+      "src": "fontawesome"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+enum ShopItemType { OUTERWEAR, DENIM, TOP, BOTTOM, FOOTWEAR }
